@@ -97,8 +97,8 @@ Another cluster had short-tenure, low-paying customers.
 🔹 Labeling the Clusters:
 Based on the patterns, we assigned meaningful labels to each cluster:
 
-Cluster 0: "High-Spending Long-Term Customers"
-Cluster 1: "Budget-Conscious Short-Term Customers"
+Cluster 0: "Budget-Conscious Short-Term Customers"
+Cluster 1: "High-Spending Long-Term Customers"
 
 These labels make the clusters actionable for business teams, such as:
 Offering loyalty programs to long-term customers.
